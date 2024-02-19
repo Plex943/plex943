@@ -1,4 +1,6 @@
-instagram.com/artdevs/)
+### Olá meu nome é Arthur Eleonaldo 🖐️
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artdevs/)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=plex943&show_icons=true&theme=tokyonight)
 
