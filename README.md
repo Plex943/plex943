@@ -13,4 +13,4 @@
 <img style="width: 90px" align="center" alt="godot" src="https://godotengine.org/assets/press/logo_large_color_dark.svg"/>
 <div><br/>
 
-- Estou aprendendo a criar meus primeiros jogos com o motor de jogo godot.
+- Estou aprendendo a criar meus primeiros projetos em node.js.
